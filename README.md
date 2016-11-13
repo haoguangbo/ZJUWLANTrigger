@@ -4,9 +4,9 @@ One-key authentication workflow for ZJUWLAN (WiFi SSID in campus of Zhejiang Uni
 
 ## Installation
 
-* Download the `.alfredworkflow` file [from here](https://raw.githubusercontent.com/iskl/ZJUWLANTrigger/master/release/ZJUWLANTrigger.alfredworkflow).
+* Download the `.alfredworkflow` file.
 * Open the file with Alfred.
-* Double click "Run Script" and open an editor dialog. Replace `username here` and `password here` with your ZJUWLAN account and password.
+* Double click "Run Script" and open an editor dialog. Replace `usernam` with your ZJUWLAN account.
 
     ![OK](https://raw.githubusercontent.com/iskl/ZJUWLANTrigger/master/screenshot/screenshot_setting.png)
 
@@ -23,3 +23,4 @@ One-key authentication workflow for ZJUWLAN (WiFi SSID in campus of Zhejiang Uni
     ![OK](https://raw.githubusercontent.com/iskl/ZJUWLANTrigger/master/screenshot/screenshot_ok.png)
 
 * Other notifications indicate the error message logging into ZJUWLAN.
+
